@@ -40,7 +40,6 @@ class FirstApp extends StatelessWidget {
                   ),
                 ),
             
-
                 margin: EdgeInsets.all(50),
                 width: 500,
                 height: 500,
